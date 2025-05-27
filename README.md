@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davitkhanal-ai&show_icons=true&locale=en" alt="davitkhanal-ai" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=davitkhanal-ai&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=davitkhanal-ai&theme=bear&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
